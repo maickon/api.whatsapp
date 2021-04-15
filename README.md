@@ -1,7 +1,7 @@
 # api.whatsapp
 Uma simples API para envio de apenas mensagens via WhatsApp.
 
-#enviando uma mensagem
+# enviando uma mensagem
 
 Uma simples solicitação get em https:meu-endereco/api/v1/send/:telephone
 
